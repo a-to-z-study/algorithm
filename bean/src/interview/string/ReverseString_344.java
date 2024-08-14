@@ -1,4 +1,4 @@
-package interview;
+package interview.string;
 
 public class ReverseString_344 {
 	public void reverseString(char[] s) {

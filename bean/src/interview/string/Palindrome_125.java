@@ -1,4 +1,4 @@
-package interview;
+package interview.string;
 
 public class Palindrome_125 {
 	public boolean isPalindrome(String s) {
