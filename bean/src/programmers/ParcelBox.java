@@ -9,7 +9,6 @@ public class ParcelBox {
 		final ArrayDeque<Integer> subQ = new ArrayDeque<>();
 
 		int i = 1;
-
 		for (int n : order) {
 			while (i <= n) {
 				subQ.addFirst(i++);
